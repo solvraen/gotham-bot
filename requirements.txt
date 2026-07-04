@@ -1,6 +1,6 @@
 python-telegram-bot
-asyncpg
-httpx
-pytz
-python-dotenv
 google-generativeai
+python-dotenv
+asyncpg
+pytz
+flask
