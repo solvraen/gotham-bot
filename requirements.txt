@@ -1,0 +1,6 @@
+python-telegram-bot
+asyncpg
+httpx
+pytz
+python-dotenv
+google-generativeai
